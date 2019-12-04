@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Mails</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Tech" sketch:type="MSLayerGroup" transform="translate(-478.000000, -129.000000)" stroke="#ffffff" stroke-width="2">
+            <g id="Mails" transform="translate(487.000000, 137.000000)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-323" x="4" y="0" width="35" height="23" rx="2"></rect>
+                <path d="M6,0 L37,0 L21.5,14 L6,0 Z" id="Triangle-17" stroke-linejoin="round"></path>
+                <path d="M16.5,9.5 L4.5,22.5" id="Line"></path>
+                <path d="M38.5,9.5 L26.5,22.5" id="Line" transform="translate(32.500000, 16.000000) scale(-1, 1) translate(-32.500000, -16.000000) "></path>
+                <g id="Line-+-Rectangle-323" transform="translate(30.000000, 32.000000) rotate(-180.000000) translate(-30.000000, -32.000000) translate(19.000000, 27.000000)">
+                    <path d="M0.5,5 L20.5,5" id="Line" stroke-linecap="square"></path>
+                    <path d="M14,2 L20,2 L20,8" id="Rectangle-320" stroke-linecap="round" stroke-linejoin="round" transform="translate(17.000000, 5.000000) rotate(-315.000000) translate(-17.000000, -5.000000) "></path>
+                </g>
+                <g id="Line-+-Rectangle-322" transform="translate(12.500000, 42.000000) scale(-1, 1) rotate(-180.000000) translate(-12.500000, -42.000000) translate(1.000000, 37.000000)">
+                    <path d="M1.5,5 L21.5,5" id="Line" stroke-linecap="square"></path>
+                    <path d="M15,2 L21,2 L21,8" id="Rectangle-320" stroke-linecap="round" stroke-linejoin="round" transform="translate(18.000000, 5.000000) rotate(-315.000000) translate(-18.000000, -5.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
